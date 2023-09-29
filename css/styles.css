@@ -1,6 +1,6 @@
 body {
     font-size: 62.5%;
-    background-color: rgb(133, 162, 240);
+    background-color: #e0d6a8; /* Cambia el color según tus preferencias */
 }
 
 h1 {
@@ -81,4 +81,12 @@ h1 {
     width: 90%;
     margin: 0 auto;
     overflow-y: auto;
+}
+
+.divResultado {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    border: #000 dashed 1px;
+    padding: 1em;
+    border-radius: 0.2em;
 }
